@@ -76,7 +76,8 @@ maintenance-reliability-dashboard/
 
 Análise focada em desempenho operacional, disponibilidade e comportamento de falhas ao longo do tempo.
 
-![Dashboard Confiabilidade](images/dashboard_confiabilidade.png)
+![Dashboad Confiabilidade](images/dashboard_confiabilidade.png)
+
 
 ### Principais análises:
 - Evolução do MTBF
