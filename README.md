@@ -2,12 +2,15 @@
 
 Projeto desenvolvido com foco em análise de confiabilidade, desempenho operacional e custos de manutenção industrial utilizando SQL, BigQuery e Looker Studio.
 
-Os dados utilizados são sintéticos e foram gerados programaticamente em Python com apoio de IA, simulando cenários reais de manutenção industrial para fins de estudo, análise e desenvolvimento de portfólio.
-
 O dashboard foi construído com base em indicadores amplamente utilizados na engenharia de manutenção, permitindo análise temporal, identificação de ativos críticos e acompanhamento da evolução dos custos operacionais.
 
 ---
+## 📌 Observação sobre os Dados
 
+Os dados utilizados neste projeto são sintéticos e foram gerados programaticamente em Python com apoio de IA, 
+simulando cenários de manutenção industrial para fins de estudo, análise e desenvolvimento de portfólio.
+
+---
 # 🚀 Tecnologias Utilizadas
 
 - SQL
@@ -150,12 +153,8 @@ Foram aplicadas estratégias de agregação por:
 - Estruturação de análises temporais
 
 ---
-## 📌 Observação sobre os Dados
 
-Os dados utilizados neste projeto são sintéticos e foram gerados programaticamente em Python com apoio de IA, 
-simulando cenários de manutenção industrial para fins de estudo, análise e desenvolvimento de portfólio.
 
----
 ## 🔗 Dashboard Interativo
 
 [Acessar Dashboard](https://datastudio.google.com/reporting/a319dd0b-f9e6-40c7-a141-27c35da3735e)
