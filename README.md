@@ -122,10 +122,6 @@ Análise temporal dos custos de manutenção com foco em tendência, crescimento
 
 ![BigQuery](dashboard/images/bigquery_views.png)
 
-### Geração de dados sintéticos em Python
-
-![Python](dashboard/images/python_data.png)
-
 As consultas SQL foram estruturadas utilizando diferentes níveis de agregação para evitar duplicidade de dados e garantir consistência nos cálculos.
 
 Foram aplicadas estratégias de agregação por:
@@ -135,6 +131,12 @@ Foram aplicadas estratégias de agregação por:
 - Planta
 - Equipamento
 - Tipo de Serviço
+
+### Geração de dados sintéticos em Python
+
+![Python](dashboard/images/python_data.png)
+
+![Python](dashboard/images/python_data_faker.png)
 
 ---
 
