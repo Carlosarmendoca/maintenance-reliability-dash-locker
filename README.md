@@ -71,5 +71,32 @@ maintenance-reliability-dashboard/
 ├── images/
 │   ├── dashboard_confiabilidade.png
 │   ├── dashboard_custos.png
+```
+# 📈 Dashboard de Confiabilidade
 
+Análise focada em desempenho operacional, disponibilidade e comportamento de falhas ao longo do tempo.
+
+![Dashboard Confiabilidade](images/dashboard_confiabilidade.png)
+
+### Principais análises:
+- Evolução do MTBF
+- Evolução do MTTR
+- Disponibilidade operacional
+- Volume de corretivas
+- Top 10 ativos críticos
+
+---
+
+# 💰 Dashboard de Custos
+
+Análise temporal dos custos de manutenção com foco em tendência, crescimento e comparação entre plantas.
+
+![Dashboard Custos](images/dashboard_custos.png)
+
+### Principais análises:
+- Evolução dos custos totais
+- Custos por planta
+- Tendência temporal
+- Comparação YoY e MoM
+- Custos de peças e mão de obra
 
