@@ -147,6 +147,10 @@ Os dados utilizados neste projeto são sintéticos e foram gerados programaticam
 simulando cenários de manutenção industrial para fins de estudo, análise e desenvolvimento de portfólio.
 
 ---
+## 🔗 Dashboard Interativo
+
+[Acessar Dashboard](https://datastudio.google.com/reporting/a319dd0b-f9e6-40c7-a141-27c35da3735e)
+
 # 🔗 Autor
 
 Carlos A. R. de Mendonça
