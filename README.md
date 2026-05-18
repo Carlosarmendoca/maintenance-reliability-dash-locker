@@ -116,8 +116,15 @@ Análise temporal dos custos de manutenção com foco em tendência, crescimento
 - Custos de peças e mão de obra
 
 ---
+# 🛠️ Desenvolvimento e Modelagem
 
-# ⚙️ Modelagem
+### Estrutura analítica no BigQuery
+
+![BigQuery](dashboard/images/bigquery_views.png)
+
+### Geração de dados sintéticos em Python
+
+![Python](dashboard/images/python_data.png)
 
 As consultas SQL foram estruturadas utilizando diferentes níveis de agregação para evitar duplicidade de dados e garantir consistência nos cálculos.
 
