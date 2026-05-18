@@ -55,7 +55,7 @@ O dashboard foi construído com base em indicadores amplamente utilizados na eng
 
 # 📂 Consultas SQL
 
-As consultas utilizadas no projeto estão disponíveis na pasta `/sql`, incluindo cálculos de:
+As consultas utilizadas no projeto estão disponíveis na pasta [dashboard/sql](./dashboard/sql), incluindo cálculos de:
 
 - MTBF
 - MTTR
