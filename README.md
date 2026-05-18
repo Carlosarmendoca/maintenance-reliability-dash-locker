@@ -76,8 +76,7 @@ maintenance-reliability-dashboard/
 
 Análise focada em desempenho operacional, disponibilidade e comportamento de falhas ao longo do tempo.
 
-![Dashboad Confiabilidade](images/dashboard_confiabilidade.png)
-
+![Dashboard de Confiabilidade](dashboard/images/dashboard_confiabilidade.png)
 
 ### Principais análises:
 - Evolução do MTBF
@@ -92,7 +91,7 @@ Análise focada em desempenho operacional, disponibilidade e comportamento de fa
 
 Análise temporal dos custos de manutenção com foco em tendência, crescimento e comparação entre plantas.
 
-![Dashboard Custos](images/dashboard_custos.png)
+![Dashboard Custos](dashboard/images/dashboard_custos.png)
 
 ### Principais análises:
 - Evolução dos custos totais
